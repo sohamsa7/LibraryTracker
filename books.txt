@@ -9,5 +9,6 @@ Arthur Connan Doyle
 Available
 
 Book 3:
-Oliver Twist
+Linear Algebra
+David Poole
 Available
