@@ -7,3 +7,7 @@ Book 2:
 Hound of Baskervilles
 Arthur Connan Doyle
 Available
+
+Book 3:
+Oliver Twist
+Available
